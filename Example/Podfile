@@ -1,0 +1,7 @@
+platform :ios, '13.0'
+use_frameworks!
+source 'https://github.com/nowsfida/Specs.git'
+
+target 'SwiftPackageExampleSample' do
+  pod 'SwiftPackageExample', '0.0.1'
+end

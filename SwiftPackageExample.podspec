@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.author       = { "Master" => "nowsfida@gmail.com" }
   spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/nowsfida/SwiftPackageExample.git", :tag => "#{spec.version}" }
-  spec.source_files  = "Classes/**/*.{swift,h,m}"
+  spec.source_files  = "Sources/**/*.{swift,h,m}"
   # spec.public_header_files = "Classes/**/*.h"
 
   spec.swift_versions = ['5.1']

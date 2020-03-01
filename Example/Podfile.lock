@@ -1,0 +1,16 @@
+PODS:
+  - SwiftPackageExample (0.0.1)
+
+DEPENDENCIES:
+  - SwiftPackageExample (= 0.0.1)
+
+SPEC REPOS:
+  https://github.com/nowsfida/Specs.git:
+    - SwiftPackageExample
+
+SPEC CHECKSUMS:
+  SwiftPackageExample: cb429e4c401b6f03dfbd699a0c48b86f1ec96408
+
+PODFILE CHECKSUM: 12502abfe3740759678f7f3136a4aafcd9c47443
+
+COCOAPODS: 1.7.3

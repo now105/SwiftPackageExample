@@ -1,0 +1,6 @@
+framework module SwiftPackageExample {
+  umbrella header "SwiftPackageExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
